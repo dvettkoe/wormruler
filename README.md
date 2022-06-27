@@ -39,12 +39,12 @@ Users can now start each step one by one or start all step at once by clicking "
 #### 2. Background correction
 Enter Gamma value depending on the brightness of the video. The gamma value should be between 0.7 to 1.3.
 
-We recommend to start background correction for one video and adjust the gamma value accordingly. Background corrected videos should look like above.
+We recommend to start background correction for one video and adjust the gamma value accordingly. The Preview button may be used to test whether the gamma value is appropriate. Background corrected videos should look like above.
 
 #### 3. Skeletonize
 Adjust the framerate to match the framerate of your videos.
 
-Check the box to override already analyzed videos. This option can be useful, if the gamma value was not adjusted correctly and analysis have to be repeated.
+Check the box to override already analyzed videos. This option can be useful, if the gamma value was not adjusted correctly and analysis has to be repeated.
 
 After starting, WormRuler will ask to select a ROI. This can be used to avoid rims and unwanted artifacts in your videos.
 
@@ -58,4 +58,6 @@ _If no stimulus was given in the experiment insert any time point for normalizat
 #### 5. Analyze Data
 Normalized data will be summarized for each analyzed condition and exported into an XLSX format for further analysis.
 
-Normalized values for each analyzed worm as well as mean, standard error of the mean and n numbers will be given. 
+Normalized values for each analyzed worm as well as mean, standard error of the mean and n numbers will be given.
+
+When more than 50 % of the datapoints of an animal are omitted, it will be ignored in the statistical analysis and listed separately.
