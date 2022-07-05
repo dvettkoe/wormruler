@@ -13,7 +13,7 @@ Download the [latest release](https://github.com/dvettkoe/wormruler/releases/tag
 
 WormRuler offers an user-friendly graphical user interface (GUI) that offers a step-by-step guidance for the analysis of multiple single worm videos.
 
-![](https://i.imgur.com/q9wELN7.gif)
+![](https://i.imgur.com/ekdyigi.gif)
 
 WormRuler allows the user to start each step separately or start all at once.
 
