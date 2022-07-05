@@ -1,0 +1,21 @@
+For a WormRuler test run use the videos stored in subfolders.
+
+Example videos in main folder show the duration of the light pulse (620 nm). (Do not use for WormRuler!)
+
+Pulse starts after 5s and lasts for 10s
+15 frames per second
+
+Example Elongation:
+unc-47p::ChrimsonSA (+ATR)
+
+Example Contraction:
+unc-17p::ChrimsonSA (+ATR)
+
+Example no reaction:
+unc-47p::ChrimsonSA (-ATR)
+
+Gamma value of 1.0 
+Pulsestart: 5 s
+15 frames per second
+Lower boundary: 0.8
+Upper boundary: 1.2
