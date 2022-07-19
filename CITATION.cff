@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Seidenthal"
+  given-names: "Marius"
+- family-names: "Vettkötter"
+  given-names: "Dennis"
+- family-names: "Gottschalk"
+  given-names: "Alexander"
+title: "WormRuler: A video analysis software to analyze body length of Caenorhabditis elegans"
+version: 1.1.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-07-06
+url: "https://github.com/dvettkoe/wormruler"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Seidenthal"
+    given-names: "Marius"
+  - family-names: "Vettkötter"
+    given-names: "Dennis"
+  - family-names: "Gottschalk"
+    given-names: "Alexander"
+  doi: "10.17912/MICROPUB.BIOLOGY.000607"
+  journal: "microPublication Biology"
+  title: "WormRuler: A software to track body length used to characterize a super red-shifted channelrhodopsin in Caenorhabditis elegans"
+  year: 2022
