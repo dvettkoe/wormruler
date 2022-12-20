@@ -48,7 +48,8 @@ Check the box to override already analyzed videos. This option can be useful, if
 
 After starting, WormRuler will ask to select a ROI. This can be used to avoid rims and unwanted artifacts in your videos.
 
-![](https://i.imgur.com/ytdtDWe.png)
+<img src="https://i.imgur.com/ytdtDWe.png" width="50%" height="50%">
+
 
 #### 4. Normalize Data
 When using a stimulus in your experiment (e.g. light pulse) insert the time (in seconds) for the start of the pulse.
