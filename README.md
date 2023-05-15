@@ -67,3 +67,8 @@ Normalized data will be summarized for each analyzed condition and exported into
 Normalized values for each analyzed worm as well as mean, standard error of the mean and n numbers will be given.
 
 When more than 50 % of the datapoints of an animal are omitted, it will be ignored in the statistical analysis and listed separately.
+
+
+Thanks for using WormRuler.
+If you use this in your work please cite our publication (Seidenthal, M., Vettkötter, D., & Gottschalk, A. (2022). WormRuler: A software to track body length used to characterize a super red-shifted channelrhodopsin in Caenorhabditis elegans. microPublication Biology. https://doi.org/10.17912/MICROPUB.BIOLOGY.000607)
+
