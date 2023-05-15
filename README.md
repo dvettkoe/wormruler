@@ -7,7 +7,7 @@ The WormRuler software is an open-source python based video analysis tool to ana
 
 ### Installation
 
-Download the [latest release](https://github.com/dvettkoe/wormruler/releases/tag/v1.2.0), unzip the folder and start the _"wormruler_v*.exe"_.
+Download the [latest release](https://github.com/dvettkoe/wormruler/releases/tag/v1.3.0), unzip the folder and start the _"wormruler_v*.exe"_.
 
 ### WormRuler guide
 
